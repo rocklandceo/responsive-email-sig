@@ -5,9 +5,9 @@
   "welcome": "Hi there,",
   "introParagraph": "Thanks for writing up this email.<br/> We are delighted to reply with a responsive template.",
   "contactMain": "Call <a href='tel:80100100'><span>80100100</span></a> or email us at",
-  "contactMail": "info@light.dk",
+  "contactMail": "ohm@rocklanddigital.co",
   "contactSecondary": "<a href='https://mapurl.com'><span>Happy Steet 31, DK-8000 Aarhus C, Denmark</span></a>",
-  "logoUrl": "/assets/light.png",
-  "logoAlt": "light logo",
-  "website": "http://light.dk"
+  "logoUrl": "/assets/Full-Transparent-1500x620.png",
+  "logoAlt": "Rockland Digital Consulting Corp.",
+  "website": "https://rocklanddigital.co"
 }
